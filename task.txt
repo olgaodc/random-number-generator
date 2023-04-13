@@ -1,0 +1,6 @@
+1. Nusiklonuoti backend koda. +++
+2. Užsiinstaliuoti bibliotekas ir pasileisti servisa su npm start. +++
+3. Sukurti papildoma endpoint'ą 'getSortedNumbers', pasiimt masyva bei išrūšiuoti bei gražinti skaičius didėjimo tvarka. +++
+4. Sukurti endpoint'ą 'getMaxNumber', kuris gražins didžiausią skaičių. +++
+5. Sukurrti Ftont-End aplikacija kuri fetchins http://localhost:8081/getRandomNumber bei atvaizduos random number ekrane.
+ 
